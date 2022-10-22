@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(250, 231, 209);
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: brown;
+    margin: 5px 335px;
+    padding: 20px 0 1px 0;
+    color: white;
+}
+
+main {
+    padding: 0px 450px 1px 450px;
+}
+
+h2 {
+    background-color: brown;
+    padding: 8px;
+    color: white;
+}
+
+a {
+    color: gray;
+}
+
+div {
+    display: block;
+    border: 2px solid rgb(139, 32, 32);
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 10px;
+}
+
+.dark {
+    font-size: 15px;
+}
+
+footer {
+    text-align: center;
+    background-color: brown;
+    padding: 10px;
+    margin: 0px 335px;
+    color: white;
+}
